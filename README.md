@@ -1,13 +1,16 @@
-![Banner](https://dslv9ilpbe7p1.cloudfront.net/2Hln71xclePJpDr9jhbIMw_store_banner_image.jpeg) 
+![Banner](https://i.pinimg.com/originals/90/af/e9/90afe999289fd34ca9faf8ecec68a8fb.gif) 
 ---
 
 ### Hello! 👋
 ---
 I'm Max 
 
-* Curently studying at Maisonneuve College  (1/4 Done)
+* Curently studying Application development(C#,VB)
 
-* I code mostly in Python and Javascript 
+* Looking to get into web development/web app in the future.
+
+* In the future id like to .. Further down my knowledge of the .net framework & 
+  maybe touch some new technologies like : PHP. 
 
 * I play Chun-li or Kitana 
 
@@ -15,8 +18,9 @@ I'm Max
 
 ### Skills 
 ---
-* 💬 Python, Javascript, Node.js
-* 👀 Html, Css 
+* 💬 C#, Java, Typescript & JS
+* 📚 .Net, Angular, React, Bootstrap..
+* 👀 Html, Css, (little but some Sass) 
 
  ### My links... 
 ---
