@@ -9,7 +9,7 @@ I'm Max
 
 * Looking to get into web development/web app in the future.
 
-* In the future id like to .. Further down my knowledge of the .net framework & ,
+* In the future id like to .. Further down my knowledge of the .net framework & <br>
  maybe touch one some new technologies like : PHP. 
 
 * I play Chun-li or Kitana 
