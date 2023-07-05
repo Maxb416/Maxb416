@@ -1,7 +1,6 @@
 ![Banner](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv) 
 ---
-![background](https://github.com/Maxb416/Maxb416/assets/97365545/9ee590ed-76be-4832-ac28-7e826d6adbca){:height="200px" width="800px"}.
----
+
 ### Hello! 👋
 ---
 I'm Max 
